@@ -58,12 +58,15 @@ The inference pipeline accurately maps predictions back to the original image co
 * Yellow Text: PP-OCRv5 prediction + confidence
 
 
-<img width="1352" height="495" alt="image" src="https://github.com/user-attachments/assets/3118716b-60f7-46d9-96ea-2f22648ef97f" />
+<img width="1515" height="2755" alt="image" src="https://github.com/user-attachments/assets/35aef46d-d4be-4d8e-9060-82b1d5e2f7c7" />
+
 
 *V4 vs V5 Inference Results Grid.*
 
 ### Training Evaluation
 Due to compute constraints (10 epochs), absolute accuracy is near zero. However, the **Normalized Edit Distance (NED)** shows the models actively learning character distributions, with **PP-OCRv5** slightly outperforming V4.
+
+<img width="1389" height="495" alt="image" src="https://github.com/user-attachments/assets/48ee8cb8-98f6-40b6-b34f-26a275e10753" />
 
 <img width="1290" height="495" alt="image" src="https://github.com/user-attachments/assets/931102d9-97fe-4908-ab9c-c65e346a19a5" />
 
