@@ -58,8 +58,8 @@ The inference pipeline accurately maps predictions back to the original image co
 * Yellow Text: PP-OCRv5 prediction + confidence
 
 
+<img width="1352" height="495" alt="image" src="https://github.com/user-attachments/assets/3118716b-60f7-46d9-96ea-2f22648ef97f" />
 
-![Comparison Grid](image-6.jpg)
 *V4 vs V5 Inference Results Grid.*
 
 ### Training Evaluation
